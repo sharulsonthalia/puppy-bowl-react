@@ -1,0 +1,22 @@
+img {
+  width: 90%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.playerCard{
+  border-radius: 20px;
+  padding: 1%;
+  margin: 1%;
+  border-color: black;
+  border-width: medium;
+  border-style: solid;
+  max-width: 30%;
+}
+
+#puppyContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
